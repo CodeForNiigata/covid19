@@ -149,6 +149,10 @@ export default {
           link: 'https://niigata-kankou.or.jp/news/105'
         },
         {
+          title: this.$t('新潟交通ホームページ'),
+          link: 'http://www.niigata-kotsu.co.jp/'
+        },
+        {
           title: this.$t('当サイトについて'),
           link: this.localePath('/about')
         },
