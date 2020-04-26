@@ -166,6 +166,13 @@ export default {
           link:
             'https://www.pref.niigata.lg.jp/sec/kikitaisaku/shingata-corona.html',
           divider: true
+        },
+        {
+          title: this.$t(
+            '新潟県(非公式)コロナウイルス対策サイトへの問い合わせ・要望フォーム'
+          ),
+          link: 'https://docs.google.com/forms/d/e/1FAIpQLSfhbZBW70Ogoi3uuHkgxbdyeOJg2K5RnMC0Z0TZSc01SiWadQ/viewform', // eslint-disable-line prettier/prettier
+          divider: true
         }
       ]
     },

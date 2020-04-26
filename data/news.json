@@ -1,29 +1,34 @@
 {
     "newsItems": [
         {
-            "date": "2020\/3\/27",
-            "url": "https:\/\/www.city.niigata.lg.jp\/iryo\/kenko\/yobou_kansen\/kansen\/coronavirus.html",
-            "text": "新型コロナウイルス感染症について"
-        },
-        {
-            "date": "2020\/3\/27",
-            "url": "https:\/\/www.pref.niigata.lg.jp\/sec\/kenko\/bukan-haien.html",
+            "date": "2020\/4\/26",
+            "url": "https://www.pref.niigata.lg.jp/sec/kenko/covid19.html",
             "text": "新潟県の最新の発表"
         },
         {
-            "date": "2020\/3\/27",
-            "url": "https://www.pref.niigata.lg.jp/sec/kikitaisaku/dai1kaitaisakuhonbukaigikekka.html",
-            "text": "第1回新潟県新型コロナウイルス感染症対策本部会議を開催しました。"
+            "date": "2020\/4\/26",
+            "url": "https://www.city.niigata.lg.jp/iryo/kenko/yobou_kansen/kansen/coronavirus.html",
+            "text": "新潟市：新型コロナウイルス感染症について"
         },
         {
-            "date": "2020\/3\/27",
-            "url": "https://twitter.com/Niigata_Bousai/status/1243391572365807617",
-            "text": "新潟市で、新たにコロナウイルス感染症に感染された方１名が確認されました。"
+            "date": "2020\/4\/26",
+            "url": "https://twitter.com/Niigata_Bousai/status/1254320895369154560",
+            "text": "新潟県で新たに新型コロナウイルス感染症に感染された方１名が確認されました。"
         },
         {
-            "date": "2020\/3\/25",
-            "url": "https:\/\/www.pref.niigata.lg.jp\/sec\/zaisei\/020317koronakinkyutaisaku.html",
-            "text": "新潟県が新型コロナウイルス感染症の発生に伴う緊急的な対策を発表"
+            "date": "2020\/4\/26",
+            "url": "https://twitter.com/Niigata_Bousai/status/1254268335333576704",
+            "text": "新潟県で新たに新型コロナウイルス感染症に感染された方３名が確認されました。"
+        },
+        {
+            "date": "2020\/4\/24",
+            "url": "https://twitter.com/Niigata_Bousai/status/1253658721655218179",
+            "text": "第9回新潟県 #新型コロナウイルス 感染症対策本部会議を開催しました。"
+        },
+        {
+            "date": "2020\/4\/21",
+            "url": "https://twitter.com/Niigata_Bousai/status/12525394466431918112",
+            "text": "県では休止要請にご協力いただく事業者に対して協力金の支給を行います。"
         }
     ]
 }

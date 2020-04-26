@@ -6,9 +6,11 @@
     <TextCard>
       {{
         $t(
-          '当サイトは新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、Code for Niigataが開設したものです。'
+          '当サイトは新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、'
         )
-      }}<br />
+      }}
+      <a href="https://www.codeforniigata.org/">Code For Niigata</a>
+      {{ $t('が開設したものです。') }}<br />
       <br />
       {{
         $t(
@@ -91,13 +93,11 @@
       }}<br />
       <ul>
         <li>
-          <a
-            href="https://marketingplatform.google.com/about/analytics/terms/jp"
-            target="_blank"
-            rel="noopener"
-          >
+          <!-- eslint-disable prettier/prettier -->
+          <a href="https://marketingplatform.google.com/about/analytics/terms/jp" target="_blank" rel="noopener" >
             {{ $t('Google Analytics利用規約') }}
           </a>
+          <!-- eslint-enable prettier/prettier -->
         </li>
         <li>
           <a
@@ -155,8 +155,12 @@
         </a>
       </i18n>
     </TextCard>
-    <TextCard :title="$t('お問い合わせ先（HPサイトポリシーについて）')">
-      <a href="https://www.codeforniigata.org/">Code For Niigata</a>
+    <TextCard :title="$t('お問い合わせ先')">
+      {{ $t('当サイトへのお問い合わせは以下のフォームをご利用ください') }}
+      <br />
+      <!-- eslint-disable prettier/prettier -->
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhbZBW70Ogoi3uuHkgxbdyeOJg2K5RnMC0Z0TZSc01SiWadQ/viewform">お問い合わせフォーム</a>
+      <!-- eslint-enable prettier/prettier -->
     </TextCard>
   </div>
 </template>
