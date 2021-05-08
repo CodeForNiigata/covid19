@@ -14,9 +14,9 @@
             "title": "新潟交通佐渡株式会社",
             "items": [
                 {
-                    "date": "2020\/4\/21",
-                    "url": "http://www.sado-bus.com/news/1060/",
-                    "text": "新型コロナウイルス感染症対策に伴う窓口臨時休業について"
+                    "date": null,
+                    "url": "http://www.sado-bus.com/emergency/994/",
+                    "text": "新型コロナウイルスの感染予防対策について（2月1日更新）"
                 }
             ]
         },
@@ -24,9 +24,9 @@
             "title": "越後交通",
             "items": [
                 {
-                    "date": "2020\/4\/21",
+                    "date": null,
                     "url": "http://www.echigo-kotsu.co.jp/covid19_bus.html",
-                    "text": "新型コロナウイルスの感染拡大および緊急事態宣言の発令に伴う運行情報等"
+                    "text": "新型コロナウイルスの感染拡大に伴う運行情報等"
                 }
             ]
         },
@@ -34,19 +34,9 @@
             "title": "頚城自動車株式会社",
             "items": [
                 {
-                    "date": "2020\/4\/22",
-                    "url": "http://www.marukei-g.com/files/libs/2654/202004221832272442.pdf",
-                    "text": "通学定期券の払い戻しについて"
-                },
-                {
-                    "date": "2020\/4\/22",
-                    "url": "http://www.marukei-g.com/files/libs/2652/202004221409535343.pdf",
-                    "text": "東京高速乗車券 払い戻し手数料無料化について"
-                },
-                {
-                    "date": "2020\/4\/18",
-                    "url": "https://www.jrniigata.co.jp/top/ibennto05.pdf",
-                    "text": "4/18～5/6 直江津駅前観光案内所 閉鎖のお知らせ"
+                    "date": null,
+                    "url": "http://www.marukei-g.com/publics/index/177/",
+                    "text": "新型コロナウイルスの感染拡大に伴う対策とお客様へのお願い"
                 }
             ]
         },
@@ -54,29 +44,24 @@
             "title": "泉観光バス",
             "items": [
                 {
-                    "date": "2020\/4\/21",
-                    "url": "http://www.izumi-group.jp/news/?id=115",
-                    "text": "にしかん観光周遊バスの運休につきまして"
+                    "date": "2021\/3\/3",
+                    "url": "https://www.izumi-group.jp/news/?id=148",
+                    "text": "新型コロナウイルスワクチン接種をお手伝いいたします！"
                 }
             ]
         },
         {
-            "title": "JR東日本 新潟支社",
+            "title": "JR東日本",
             "items": [
                 {
                     "date": null,
-                    "url": "https://www.jrniigata.co.jp/top/ibento04.pdf",
-                    "text": "イベント中止に伴う、臨時列車の運休について（４月）"
+                    "url": "https://www.jreast.co.jp/information/coronavirus202101/",
+                    "text": "緊急事態宣言に伴うお知らせ"
                 },
                 {
-                    "date": null,
-                    "url": "https://www.jrniigata.co.jp/top/ibennto05.pdf",
-                    "text": "イベント中止に伴う、臨時列車の運休について（５月）"
-                },
-                {
-                    "date": null,
-                    "url": "https://www.jrniigata.co.jp/top/20200406rinji6.pdf",
-                    "text": "イベント中止に伴う、臨時列車の運休について（６月）"
+                    "date": "2021\/5\/6",
+                    "url": "https://www.jreast.co.jp/press/2021/niigata/20210506_ni01.pdf",
+                    "text": "ゴールデンウィーク期間のご利用状況"
                 }
             ]
         },
@@ -84,9 +69,9 @@
             "title": "北越急行株式会社",
             "items": [
                 {
-                    "date": "2020\/4\/21",
-                    "url": "https://hokuhoku.co.jp/pdf/info2020420.pdf",
-                    "text": "新型コロナウイルス発生に伴うきっぷの取扱いについて"
+                    "date": null,
+                    "url": "https://hokuhoku.co.jp/corona.html",
+                    "text": "ほくほく線 新型コロナウイルス感染症対策について"
                 }
             ]
         },
@@ -94,9 +79,9 @@
             "title": "えちごトキめき鉄道株式会社",
             "items": [
                 {
-                    "date": "2020\/4\/21",
-                    "url": "https://www.echigo-tokimeki.co.jp/information/detail?id=1028",
-                    "text": "「雪月花」の運休期間延長について"
+                    "date": null,
+                    "url": "https://www.echigo-tokimeki.co.jp/information/detail?id=1055",
+                    "text": "新型コロナウイルス感染防止への取組について"
                 }
             ]
         },
@@ -105,8 +90,8 @@
             "items": [
                 {
                     "date": null,
-                    "url": "http://www.niigata-airport.gr.jp/news/view.php?id=725",
-                    "text": "国内線減便のお知らせ"
+                    "url": "https://www.niigata-airport.gr.jp/news/detail/?id=62",
+                    "text": "新型コロナウイルス感染症予防とお客様へのお願い"
                 }
             ]
         },
@@ -114,9 +99,9 @@
             "title": "佐渡汽船株式会社",
             "items": [
                 {
-                    "date": "2020\/4\/24",
-                    "url": "https://www.sadokisen.co.jp/?news=20200424-2",
-                    "text": "新型コロナウイルス感染拡大の影響に伴う減便の追加と期間延長について"
+                    "date": "2021\/3\/19",
+                    "url": "https://www.sadokisen.co.jp/?news=20200305",
+                    "text": "新型コロナウイルスに関する佐渡汽船の取り組みについて（令和３年３月１９日現在）"
                 }
             ]
         },
@@ -124,9 +109,14 @@
             "title": "粟島汽船株式会社",
             "items": [
                 {
-                    "date": "2020\/4\/17",
-                    "url": "http://awaline.co.jp/img/corona/20200417_timetable_notice.pdf",
-                    "text": "４月２５日～５月３１日の運航ダイヤ変更について"
+                    "date": null,
+                    "url": "http://awaline.co.jp/",
+                    "text": "粟島汽船株式会社"
+                },
+                {
+                    "date": "2021\/4\/26",
+                    "url": "https://awa-isle.jp/news/%e3%80%90%e3%81%94%e6%9d%a5%e5%b3%b6%e4%ba%88%e5%ae%9a%e3%81%ae%e7%9a%86%e6%a7%98%e3%81%b8%e3%80%91%e6%9d%a5%e5%b3%b6%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%83%95%e3%83%ad%e3%83%bc%e3%83%81%e3%83%a3/",
+                    "text": "【ご来島予定の皆様へ】来島に関するフローチャート(来島のための必要事項が確認できます) ※粟島観光協会"
                 }
             ]
         }

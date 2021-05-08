@@ -16,7 +16,7 @@
         </dt>
         <dd :class="$style.link">
           <a
-            href="https://www.pref.niigata.lg.jp/sec/kenko/corona-center.html"
+            href="https://www.pref.niigata.lg.jp/site/shingata-corona/corona-center1109.html"
             target="_blank"
             rel="noopener"
           >

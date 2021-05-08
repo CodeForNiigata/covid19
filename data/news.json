@@ -1,34 +1,19 @@
 {
     "newsItems": [
         {
-            "date": "2021\/1\/30",
-            "url": "https://twitter.com/Niigata_Bousai/status/1355459777720008710",
-            "text": "県内の新型コロナウイルス感染症の状況1月30日"
+            "date": "2021\/5\/08",
+            "url": "https://niigata.stopcovid19.jp/cities",
+            "text": "「新潟県内 各市町村のコロナウイルス感染症情報」を更新しました。"
         },
         {
-            "date": "2021\/1\/29",
-            "url": "https://www.pref.niigata.lg.jp/site/shingata-corona/vaccine.html",
-            "text": "新型コロナワクチンについて"
+            "date": "2021\/5\/08",
+            "url": "https://niigata.stopcovid19.jp/transit",
+            "text": "「新型コロナウイルスの影響による公共交通機関への影響」を更新しました。"
         },
         {
-            "date": "2021\/1\/28",
-            "url": "https://twitter.com/Niigata_Bousai/status/1354751411104276482",
-            "text": "県内の新型コロナウイルス感染症の状況1月28日"
-        },
-        {
-            "date": "2021\/1\/27",
-            "url": "https://twitter.com/Niigata_Bousai/status/1354369299771662337",
-            "text": "県内の新型コロナウイルス感染症の状況1月27日"
-        },
-        {
-            "date": "2021\/1\/20",
-            "url": "https://www.pref.niigata.lg.jp/site/shingata-corona/corona-center1109.html",
-            "text": "新潟県新型コロナ受診相談センターについて"
-        },
-        {
-            "date": "2021\/1\/18",
-            "url": "https://twitter.com/Niigata_Press/status/1351442383674634240",
-            "text": "新型コロナ 警報継続中"
+            "date": "2021\/5\/08",
+            "url": "https://niigata.stopcovid19.jp/takeout/",
+            "text": "「県内のテイクアウト情報」を更新しました。"
         }
     ]
 }

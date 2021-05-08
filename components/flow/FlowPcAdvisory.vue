@@ -32,7 +32,7 @@
             ]"
           >
             <a
-              href="https://www.pref.niigata.lg.jp/sec/kenko/corona-center.html"
+              href="https://www.pref.niigata.lg.jp/site/shingata-corona/corona-center1109.html"
               target="_blank"
               rel="noopener"
             >
@@ -56,6 +56,9 @@
           <div :class="$style.AdvisoryContentsTitle2">
             {{ $t('FAXの場合') }}
           </div>
+          <div :class="[$style.AdvisoryContentsText, 'mt-4']">
+            {{ $t('以下の様式にて対応') }}
+          </div>
           <div
             :class="[
               $style.AdvisoryLink,
@@ -64,12 +67,85 @@
             ]"
           >
             <a
-              href="https://www.pref.niigata.lg.jp/uploaded/attachment/206773.docx"
+              href="https://www.pref.niigata.lg.jp/uploaded/life/345005_624817_misc.docx"
               target="_blank"
               rel="noopener"
             >
               <span :class="$style.fzMedium"
-                >{{ $t('この様式にて対応') }} (Word)
+                >{{ $t('FAX相談様式') }} (Word)
+              </span>
+              <v-icon size="18">
+                mdi-open-in-new
+              </v-icon>
+            </a>
+          </div>
+          <div
+            :class="[
+              $style.AdvisoryLink,
+              $style.AdvisoryBlockCentering,
+              'mt-4'
+            ]"
+          >
+            <a
+              href="https://www.pref.niigata.lg.jp/uploaded/life/345005_624824_misc.pdf"
+              target="_blank"
+              rel="noopener"
+            >
+              <span :class="$style.fzMedium"
+                >{{ $t('FAX相談様式') }} (PDF)
+              </span>
+              <v-icon size="18">
+                mdi-open-in-new
+              </v-icon>
+            </a>
+          </div>
+          <div
+            :class="[
+              $style.AdvisoryLink,
+              $style.AdvisoryBlockCentering,
+              'mt-4'
+            ]"
+          >
+            <a
+              href="https://www.pref.niigata.lg.jp/uploaded/life/345005_624825_misc.pdf"
+              target="_blank"
+              rel="noopener"
+            >
+              <span :class="$style.fzMedium"
+                >{{ $t('FAX相談様式(記入例)') }} (PDF)
+              </span>
+              <v-icon size="18">
+                mdi-open-in-new
+              </v-icon>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div :class="$style.AdvisoryContents">
+        <div class="py-8">
+          <div :class="$style.AdvisoryContentsTitle2">
+            {{ $t('遠隔手話サービス') }}
+          </div>
+          <div
+            :class="[
+              $style.AdvisoryLink,
+              $style.AdvisoryBlockCentering,
+              'mt-4'
+            ]"
+          >
+            <a
+              href="https://www.pref.niigata.lg.jp/uploaded/life/345005_624816_misc.pdf"
+              target="_blank"
+              rel="noopener"
+            >
+              <span :class="$style.fzMedium">
+                {{
+                  $t(
+                    '新型コロナウイルス感染症の疑いがある方を対象にした遠隔手話サービスを開始します'
+                  )
+                }}
+                (PDF)
               </span>
               <v-icon size="18">
                 mdi-open-in-new
@@ -115,6 +191,9 @@
     }
     &SubTitle {
       font-size: 18px;
+    }
+    &Text {
+      font-size: 13px;
     }
     &ColsSentense {
       line-height: 18px;

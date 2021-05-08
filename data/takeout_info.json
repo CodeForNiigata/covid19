@@ -1,12 +1,17 @@
 {
     "takeoutItems": [
         {
-            "title": "三条市",
+            "title": "県内まとめサイト",
             "items": [
                 {
-                    "author": null,
-                    "url": "https://sanjoyellmeshi.localinfo.jp/",
-                    "text": "＃三条エール飯"
+                    "author": "NST新潟総合テレビ",
+                    "url": "https://niigata-togo.com/",
+                    "text": "にいがたＴＯＧＯ"
+                },
+                {
+                    "author": "FM-NIIGATA",
+                    "url": "https://fmniigata-gatameshi.com/",
+                    "text": "潟メシ プロジェクト"
                 }
             ]
         },
@@ -14,7 +19,7 @@
             "title": "燕市",
             "items": [
                 {
-                    "author": null,
+                    "author": "燕テイクアウト",
                     "url": "https://www.instagram.com/tsubame_takeout/",
                     "text": "つばめおうちでお店ごはん"
                 }
@@ -25,8 +30,8 @@
             "items": [
                 {
                     "author": "にいがた通信",
-                    "url": "http://gata21.jp/archives/82778685.html",
-                    "text": "【随時更新】地図で一気見！新潟市内のテイクアウトしてるお店『にいがたテイクアウトマップ』でまとめてみた。"
+                    "url": "https://www.google.com/maps/d/viewer?mid=1Voo49wdwmm6_jm_6zzEAyElmJF5ooT4y&usp=sharing",
+                    "text": "にいがたテイクアウトマップ"
                 }
             ]
         },

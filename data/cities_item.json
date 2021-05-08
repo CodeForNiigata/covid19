@@ -7,11 +7,6 @@
         },
         {
             "date": null,
-            "url": "https://www.pref.niigata.lg.jp/sec/kenko/covid19.html",
-            "text": "新潟県：新型コロナウイルス感染症（最新の状況）"
-        },
-        {
-            "date": null,
             "url": "https://www.city.niigata.lg.jp/iryo/kenko/yobou_kansen/kansen/coronavirus.html",
             "text": "新潟市：新型コロナウイルス感染症について"
         },
@@ -22,17 +17,17 @@
         },
         {
             "date": null,
-            "url": "https://www.city.sanjo.niigata.jp/soshiki/somubu/seisakusuishin/kohokocho/12226.html",
+            "url": "https://www.city.sanjo.niigata.jp/soshiki/somubu/seisakusuishin/kohokocho/12232.html",
             "text": "三条市：新型コロナウイルス感染症について"
         },
         {
             "date": null,
-            "url": "https://www.city.kashiwazaki.lg.jp/daijinaoshirase/18906.html",
+            "url": "https://www.city.kashiwazaki.lg.jp/covid19info/index.html",
             "text": "柏崎市：新型コロナウイルス関連情報"
         },
         {
             "date": null,
-            "url": "http://www.city.shibata.lg.jp/kurashi/iza/kansen/index.html",
+            "url": "https://www.city.shibata.lg.jp/kurashi/iza/kansen/index.html",
             "text": "新発田市：新型コロナウイルス関連情報"
         },
         {
@@ -42,12 +37,12 @@
         },
         {
             "date": null,
-            "url": "http://www.city.kamo.niigata.jp/section/corona/",
-            "text": "加茂市：新型コロナウイルス感染症に関するお願い"
+            "url": "https://www.city.kamo.niigata.jp/corona/",
+            "text": "加茂市：新型コロナウイルス関連"
         },
         {
             "date": null,
-            "url": "http://www.city.tokamachi.lg.jp/soshiki/sm/04/Coronavirus/index.html",
+            "url": "https://www.city.tokamachi.lg.jp/soshiki/somubu/bosaianzenka/2/index.html",
             "text": "十日町市：新型コロナウイルス感染症対策本部"
         },
         {
@@ -57,13 +52,13 @@
         },
         {
             "date": null,
-            "url": "http://www.city.murakami.lg.jp/site/korona/",
+            "url": "https://www.city.murakami.lg.jp/site/korona/",
             "text": "村上市：新型コロナウイルス関連情報　特設サイト"
         },
         {
             "date": null,
-            "url": "http://www.city.tsubame.niigata.jp/life/041001194.html",
-            "text": "燕市：新型コロナウイルス感染症に関する情報について"
+            "url": "https://www.city.tsubame.niigata.jp/kinkyu/index.html",
+            "text": "燕市：新型コロナウイルス感染症について"
         },
         {
             "date": null,
@@ -77,8 +72,8 @@
         },
         {
             "date": null,
-            "url": "https://www.city.gosen.lg.jp/kinkyu/6033.html",
-            "text": "五泉市：新型コロナウイルス関連情報"
+            "url": "https://www.city.gosen.lg.jp/kinkyu/6593.html",
+            "text": "五泉市：新型コロナウイルス】市民の皆さまへ（お知らせ、対策等）"
         },
         {
             "date": null,
@@ -87,23 +82,23 @@
         },
         {
             "date": null,
-            "url": "http://www.city.agano.niigata.jp/site/corona/",
-            "text": "阿賀野市：新型コロナウイルスに関する情報（まとめ）"
+            "url": "https://www.city.agano.niigata.jp/kenko_iryo_fukushi/iryo_kenko/kansensho_byoki/1/index.html",
+            "text": "阿賀野市：新型コロナウイルス感染症関連情報"
         },
         {
             "date": null,
-            "url": "https://www.city.sado.niigata.jp/info/data/2020/covid2019.shtmll",
-            "text": "佐渡市：新型コロナウイルス感染症に関する情報"
+            "url": "https://www.city.sado.niigata.jp/site/coronavirus/",
+            "text": "佐渡市：新型コロナウイルスに関する情報"
         },
         {
             "date": null,
-            "url": "https://www.city.uonuma.niigata.jp/important-information/2020042000101/",
-            "text": "魚沼市：市民のみなさまへ（新型コロナウイルス感染症に関する総合情報）"
+            "url": "https://www.city.uonuma.niigata.jp/important-information/2020051800013/",
+            "text": "魚沼市：新型コロナウイルス感染症に関する総合情報"
         },
         {
             "date": null,
             "url": "http://www.city.minamiuonuma.niigata.jp/kinkyu/index.html",
-            "text": "南魚沼市：緊急情報／コロナウイルス対策含む"
+            "text": "南魚沼市：緊急情報"
         },
         {
             "date": null,
@@ -112,13 +107,13 @@
         },
         {
             "date": null,
-            "url": "http://www.town.seiro.niigata.jp/hokenfukusi/20200204coronavirus.htmll",
-            "text": "聖籠町：新型コロナウイルスに関すること"
+            "url": "http://www.town.seiro.niigata.jp/corona/00taisaku_top.html",
+            "text": "聖籠町：新型コロナウイルス感染症に関する情報"
         },
         {
             "date": null,
-            "url": "http://www.vill.yahiko.niigata.jp/%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AB%E9%96%A2%E3%82%8F%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
-            "text": "弥彦村：新型コロナウイルス感染症に関わるお知らせ"
+            "url": "http://www.vill.yahiko.niigata.jp/%E6%96%B0%E5%9E%8B%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AB%E9%96%A2%E3%82%8F%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+            "text": "弥彦村：新型ウイルス感染症に関わるお知らせ"
         },
         {
             "date": null,
@@ -127,13 +122,13 @@
         },
         {
             "date": null,
-            "url": "http://www.town.aga.niigata.jp/gyousei/section/agamachi/details_1284.html",
-            "text": "阿賀町：新型コロナウイルス感染症に伴う全国緊急事態宣言に関する町民の皆様へのお願い"
+            "url": "http://www.town.aga.niigata.jp/gyousei/section/agamachi/index.html",
+            "text": "阿賀町：新型コロナウイルス関連情報"
         },
         {
             "date": null,
-            "url": "http://www.town.izumozaki.niigata.jp/topics/2020022700038/",
-            "text": "出雲崎町：新型コロナウイルス感染症について"
+            "url": "https://www.town.izumozaki.niigata.jp/covid19info/",
+            "text": "出雲崎町：新型コロナウイルス情報"
         },
         {
             "date": null,
@@ -152,13 +147,13 @@
         },
         {
             "date": null,
-            "url": "http://www.vill.sekikawa.niigata.jp/life/1866/2452/index.html",
+            "url": "http://www.vill.sekikawa.niigata.jp/life/2452/index.html",
             "text": "関川村：新型コロナウイルス感染症に関する情報"
         },
         {
             "date": null,
-            "url": "http://www.vill.awashimaura.lg.jp/wp-content/uploads/2020/04/20200408-korona-jisyuku.pdf",
-            "text": "粟島浦村：粟島浦村にご来島を予定されている観光客及び帰省客等の皆様に対する旅行等の見直し・延期のお願い"
+            "url": "http://www.vill.awashimaura.lg.jp/wp-content/uploads/2021/02/69743441447d843ad79ffb167451313f.pdff",
+            "text": "粟島浦村：【R3.2.24】粟島浦村からのお願い（新型コロナウイルス感染症対策に関して） "
         }
     ]
 }

@@ -165,7 +165,7 @@ export default class DataView extends Vue {
   }
 
   fromlink() {
-    const fromlink = 'https://www.pref.niigata.lg.jp/sec/kenko/bukan-haien.html'
+    const fromlink = 'https://www.pref.niigata.lg.jp/site/shingata-corona/'
 
     return fromlink
   }

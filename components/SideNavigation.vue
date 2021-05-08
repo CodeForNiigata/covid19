@@ -120,38 +120,20 @@ export default {
           divider: true
         },
         {
-          title: this.$t('新潟県対策本部会議開催状況'),
-          link:
-            'https://www.pref.niigata.lg.jp/sec/kikitaisaku/shingata-corona.html'
-        },
-        {
-          icon: 'mdi-account-multiple',
-          title: this.$t('県民の皆様へ'),
-          link:
-            'https://www.pref.niigata.lg.jp/sec/kikitaisaku/shingata-corona.html'
+          title: this.$t('新潟県 新型コロナウイルス感染症について'),
+          link: 'https://www.pref.niigata.lg.jp/site/shingata-corona/',
+          divider: true
         },
         {
           icon: 'mdi-domain',
           title: this.$t('企業の皆様・はたらく皆様へ'),
-          link: this.localePath('/worker'),
-          divider: true
+          link: this.localePath('/worker')
         },
         {
           icon: 'niigata',
           title: this.$t('県内 各市町村のコロナウイルス感染症情報'),
-          link: this.localePath('/cities')
-        },
-        {
-          title: this.$t(
-            '新型コロナウイルス感染症対策情報（産業労働分野）まとめ'
-          ),
-          link: 'https://www.pref.niigata.lg.jp/sec/sangyoseisaku/corona-sangyo'
-        },
-        {
-          title: this.$t(
-            '新型コロナウィルス感染症の拡大防止による新潟県内のイベント中止および変更について'
-          ),
-          link: 'https://niigata-kankou.or.jp/news/105'
+          link: this.localePath('/cities'),
+          divider: true
         },
         {
           title: this.$t('新型コロナウイルスの影響による公共交通機関への影響'),
@@ -162,14 +144,14 @@ export default {
           link: this.localePath('/takeout')
         },
         {
-          title: this.$t('新潟県公式ホームページ'),
-          link: 'https://www.pref.niigata.lg.jp/',
-          divider: true
+          title: this.$t(
+            '新型コロナウィルス感染症の拡大防止による新潟県内のイベント中止および変更について'
+          ),
+          link: 'https://niigata-kankou.or.jp/news/105'
         },
         {
-          title: this.$t('県からのお願い'),
-          link:
-            'https://www.pref.niigata.lg.jp/sec/kikitaisaku/shingata-corona.html',
+          title: this.$t('新潟県公式ホームページ'),
+          link: 'https://www.pref.niigata.lg.jp/',
           divider: true
         },
         {
