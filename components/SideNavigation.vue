@@ -116,7 +116,7 @@ export default {
         {
           icon: 'covid',
           title: this.$t('新型コロナウイルス感染症が心配なときに'),
-          link: this.localePath('/flow'),
+          link: 'https://www.pref.niigata.lg.jp/site/shingata-corona/corona-center1109.html', // eslint-disable-line prettier/prettier
           divider: true
         },
         {
